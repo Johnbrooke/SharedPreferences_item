@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_item"
+        android:orderInCategory="1"
+        android:icon="@mipmap/ic_launcher"
+        android:title="测试1"/>
+    <item
+        android:id="@+id/menu_item2"
+        android:orderInCategory="2"
+        android:icon="@mipmap/ic_launcher"
+        android:title="测试2"/>
+    <item
+        android:id="@+id/menu_item3"
+        android:orderInCategory="3"
+        android:icon="@mipmap/ic_launcher"
+        android:title="测试3"/>
+    <item
+        android:id="@+id/menu_item4"
+        android:orderInCategory="4"
+        android:icon="@mipmap/ic_launcher"
+        android:title="测试4"/>
+    <item
+        android:id="@+id/menu_item5"
+        android:orderInCategory="5"
+        android:icon="@mipmap/ic_launcher"
+        android:title="测试5"
+        />
+    <item
+        android:id="@+id/menu_item6"
+        android:orderInCategory="6"
+        android:icon="@mipmap/ic_launcher"
+        android:title="测试6"/>
+
+</menu>
